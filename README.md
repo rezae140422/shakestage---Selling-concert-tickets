@@ -65,7 +65,7 @@ concert/
 
 Clone the repo:
 
-git clone https://github.com/YourUsername/shakestage.git
+git clone https://github.com/rezae140422/shakestage.git
 cd shakestage
 
 
