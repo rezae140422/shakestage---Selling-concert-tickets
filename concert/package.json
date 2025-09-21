@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^44.1.0",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "fabric": "^6.5.4",
+    "gridstack": "^11.2.0",
+    "leaflet": "^1.9.4",
+    "sweetalert2": "^11.15.10"
+  }
+}

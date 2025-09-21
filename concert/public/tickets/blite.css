@@ -1,0 +1,110 @@
+/* تنظیمات عمومی */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* هدر */
+header {
+    background-color: #007bff;
+    padding: 20px 0;
+    color: #fff;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+/* استایل‌های کارت بلیط */
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 30px;
+    background-color: #fff;
+    padding: 30px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card h3 {
+    font-size: 2rem;
+    color: #007bff;
+}
+
+.card p {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+.card hr {
+    margin: 20px 0;
+}
+
+.card .badge {
+    padding: 5px 10px;
+    font-size: 1rem;
+}
+
+/* لیست صندلی‌ها */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+    font-size: 1rem;
+}
+
+/* استایل برای نمایش عکس‌ها */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* استایل برای متن و لینک‌ها */
+strong {
+    color: #007bff;
+}
+
+/* استایل برای برچسب‌ها و ایمیل */
+.text-muted {
+    color: #6c757d;
+}
+
+/* استایل برای بخش‌ها */
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* ریسپانسیو برای دستگاه‌های کوچک */
+@media (max-width: 768px) {
+    .container {
+        padding: 15px;
+    }
+
+    .card-body {
+        padding: 15px;
+    }
+
+    .card h3 {
+        font-size: 1.5rem;
+    }
+
+    .card p {
+        font-size: 0.9rem;
+    }
+}

@@ -1,0 +1,11 @@
+# فعال کردن mod_rewrite
+RewriteEngine On
+
+# تنظیم پایه URL
+RewriteBase /concert/public/
+
+# بازنویسی URL برای tickets/{transaction_id}
+RewriteRule ^tickets/([a-zA-Z0-9]+)$ tickets/index.php?transaction_id=$1 [L,QSA]
+
+# بازنویسی URL برای مدیریت خطاها
+ErrorDocument 404 /404.php

@@ -1,0 +1,675 @@
+Array
+(
+    [id] => PAYID-M6FZJQQ1G1760127G314123Y
+    [intent] => sale
+    [state] => approved
+    [cart] => 14D11423EY6148003
+    [payer] => Array
+        (
+            [payment_method] => paypal
+            [status] => VERIFIED
+            [payer_info] => Array
+                (
+                    [email] => mahsamoradi611.mm@gmail.com
+                    [first_name] => Mahsa
+                    [last_name] => Moradi
+                    [payer_id] => XC3MCWYNTTKX2
+                    [shipping_address] => Array
+                        (
+                            [recipient_name] => Mahsa Moradi
+                            [line1] => De Roest dAlkemadelaan
+                            [line2] => 7 b1
+                            [city] => Antwerp
+                            [state] => 
+                            [postal_code] => 2600
+                            [country_code] => BE
+                        )
+
+                    [country_code] => BE
+                )
+
+        )
+
+    [transactions] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [total] => 0.50
+                            [currency] => EUR
+                            [details] => Array
+                                (
+                                    [subtotal] => 0.50
+                                    [shipping] => 0.00
+                                    [insurance] => 0.00
+                                    [handling_fee] => 0.00
+                                    [shipping_discount] => 0.00
+                                    [discount] => 0.00
+                                )
+
+                        )
+
+                    [payee] => Array
+                        (
+                            [merchant_id] => 8W5LK7B3HJX7Q
+                            [email] => zanamm67@gmail.com
+                        )
+
+                    [description] => Concert Ticket Purchase
+                    [item_list] => Array
+                        (
+                            [shipping_address] => Array
+                                (
+                                    [recipient_name] => Mahsa Moradi
+                                    [line1] => De Roest dAlkemadelaan
+                                    [line2] => 7 b1
+                                    [city] => Antwerp
+                                    [state] => 
+                                    [postal_code] => 2600
+                                    [country_code] => BE
+                                )
+
+                        )
+
+                    [related_resources] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sale] => Array
+                                        (
+                                            [id] => 4RL81468X7980820Y
+                                            [state] => completed
+                                            [amount] => Array
+                                                (
+                                                    [total] => 0.50
+                                                    [currency] => EUR
+                                                    [details] => Array
+                                                        (
+                                                            [subtotal] => 0.50
+                                                            [shipping] => 0.00
+                                                            [insurance] => 0.00
+                                                            [handling_fee] => 0.00
+                                                            [shipping_discount] => 0.00
+                                                            [discount] => 0.00
+                                                        )
+
+                                                )
+
+                                            [payment_mode] => INSTANT_TRANSFER
+                                            [protection_eligibility] => ELIGIBLE
+                                            [protection_eligibility_type] => UNAUTHORIZED_PAYMENT_ELIGIBLE
+                                            [transaction_fee] => Array
+                                                (
+                                                    [value] => 0.37
+                                                    [currency] => EUR
+                                                )
+
+                                            [parent_payment] => PAYID-M6FZJQQ1G1760127G314123Y
+                                            [create_time] => 2025-01-18T11:47:21Z
+                                            [update_time] => 2025-01-18T11:47:21Z
+                                            [links] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [href] => https://api.paypal.com/v1/payments/sale/4RL81468X7980820Y
+                                                            [rel] => self
+                                                            [method] => GET
+                                                        )
+
+                                                    [1] => Array
+                                                        (
+                                                            [href] => https://api.paypal.com/v1/payments/sale/4RL81468X7980820Y/refund
+                                                            [rel] => refund
+                                                            [method] => POST
+                                                        )
+
+                                                    [2] => Array
+                                                        (
+                                                            [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZJQQ1G1760127G314123Y
+                                                            [rel] => parent_payment
+                                                            [method] => GET
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [failed_transactions] => Array
+        (
+        )
+
+    [create_time] => 2025-01-18T11:47:14Z
+    [update_time] => 2025-01-18T11:47:21Z
+    [links] => Array
+        (
+            [0] => Array
+                (
+                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZJQQ1G1760127G314123Y
+                    [rel] => self
+                    [method] => GET
+                )
+
+        )
+
+)
+Array
+(
+    [paymentId] => PAYID-M6FZMWA9XB24832J1504813N
+    [payerId] => XC3MCWYNTTKX2
+    [paymentToken] => EC-8GU421492U8614018
+    [jsonResponse] => Array
+        (
+            [id] => PAYID-M6FZMWA9XB24832J1504813N
+            [intent] => sale
+            [state] => approved
+            [cart] => 8GU421492U8614018
+            [payer] => Array
+                (
+                    [payment_method] => paypal
+                    [status] => VERIFIED
+                    [payer_info] => Array
+                        (
+                            [email] => mahsamoradi611.mm@gmail.com
+                            [first_name] => Mahsa
+                            [last_name] => Moradi
+                            [payer_id] => XC3MCWYNTTKX2
+                            [shipping_address] => Array
+                                (
+                                    [recipient_name] => Mahsa Moradi
+                                    [line1] => De Roest dAlkemadelaan
+                                    [line2] => 7 b1
+                                    [city] => Antwerp
+                                    [state] => 
+                                    [postal_code] => 2600
+                                    [country_code] => BE
+                                )
+
+                            [country_code] => BE
+                        )
+
+                )
+
+            [transactions] => Array
+                (
+                    [0] => Array
+                        (
+                            [amount] => Array
+                                (
+                                    [total] => 0.50
+                                    [currency] => EUR
+                                    [details] => Array
+                                        (
+                                            [subtotal] => 0.50
+                                            [shipping] => 0.00
+                                            [insurance] => 0.00
+                                            [handling_fee] => 0.00
+                                            [shipping_discount] => 0.00
+                                            [discount] => 0.00
+                                        )
+
+                                )
+
+                            [payee] => Array
+                                (
+                                    [merchant_id] => 8W5LK7B3HJX7Q
+                                    [email] => zanamm67@gmail.com
+                                )
+
+                            [description] => Concert Ticket Purchase
+                            [custom] => 2b0c01483f47e29afab6f62d30e614c8
+                            [item_list] => Array
+                                (
+                                    [shipping_address] => Array
+                                        (
+                                            [recipient_name] => Mahsa Moradi
+                                            [line1] => De Roest dAlkemadelaan
+                                            [line2] => 7 b1
+                                            [city] => Antwerp
+                                            [state] => 
+                                            [postal_code] => 2600
+                                            [country_code] => BE
+                                        )
+
+                                )
+
+                            [related_resources] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [sale] => Array
+                                                (
+                                                    [id] => 6GA8012969801740G
+                                                    [state] => completed
+                                                    [amount] => Array
+                                                        (
+                                                            [total] => 0.50
+                                                            [currency] => EUR
+                                                            [details] => Array
+                                                                (
+                                                                    [subtotal] => 0.50
+                                                                    [shipping] => 0.00
+                                                                    [insurance] => 0.00
+                                                                    [handling_fee] => 0.00
+                                                                    [shipping_discount] => 0.00
+                                                                    [discount] => 0.00
+                                                                )
+
+                                                        )
+
+                                                    [payment_mode] => INSTANT_TRANSFER
+                                                    [protection_eligibility] => ELIGIBLE
+                                                    [protection_eligibility_type] => UNAUTHORIZED_PAYMENT_ELIGIBLE
+                                                    [transaction_fee] => Array
+                                                        (
+                                                            [value] => 0.37
+                                                            [currency] => EUR
+                                                        )
+
+                                                    [parent_payment] => PAYID-M6FZMWA9XB24832J1504813N
+                                                    [create_time] => 2025-01-18T11:54:07Z
+                                                    [update_time] => 2025-01-18T11:54:07Z
+                                                    [links] => Array
+                                                        (
+                                                            [0] => Array
+                                                                (
+                                                                    [href] => https://api.paypal.com/v1/payments/sale/6GA8012969801740G
+                                                                    [rel] => self
+                                                                    [method] => GET
+                                                                )
+
+                                                            [1] => Array
+                                                                (
+                                                                    [href] => https://api.paypal.com/v1/payments/sale/6GA8012969801740G/refund
+                                                                    [rel] => refund
+                                                                    [method] => POST
+                                                                )
+
+                                                            [2] => Array
+                                                                (
+                                                                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZMWA9XB24832J1504813N
+                                                                    [rel] => parent_payment
+                                                                    [method] => GET
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [failed_transactions] => Array
+                (
+                )
+
+            [create_time] => 2025-01-18T11:54:00Z
+            [update_time] => 2025-01-18T11:54:07Z
+            [links] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZMWA9XB24832J1504813N
+                            [rel] => self
+                            [method] => GET
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [paymentId] => PAYID-M6FZWOA2GN56468KK123592F
+    [payerId] => XC3MCWYNTTKX2
+    [paymentToken] => EC-4H403749WV2471241
+    [jsonResponse] => Array
+        (
+            [id] => PAYID-M6FZWOA2GN56468KK123592F
+            [intent] => sale
+            [state] => approved
+            [cart] => 4H403749WV2471241
+            [payer] => Array
+                (
+                    [payment_method] => paypal
+                    [status] => VERIFIED
+                    [payer_info] => Array
+                        (
+                            [email] => mahsamoradi611.mm@gmail.com
+                            [first_name] => Mahsa
+                            [last_name] => Moradi
+                            [payer_id] => XC3MCWYNTTKX2
+                            [shipping_address] => Array
+                                (
+                                    [recipient_name] => Mahsa Moradi
+                                    [line1] => De Roest dAlkemadelaan
+                                    [line2] => 7 b1
+                                    [city] => Antwerp
+                                    [state] => 
+                                    [postal_code] => 2600
+                                    [country_code] => BE
+                                )
+
+                            [country_code] => BE
+                        )
+
+                )
+
+            [transactions] => Array
+                (
+                    [0] => Array
+                        (
+                            [amount] => Array
+                                (
+                                    [total] => 0.50
+                                    [currency] => EUR
+                                    [details] => Array
+                                        (
+                                            [subtotal] => 0.50
+                                            [shipping] => 0.00
+                                            [insurance] => 0.00
+                                            [handling_fee] => 0.00
+                                            [shipping_discount] => 0.00
+                                            [discount] => 0.00
+                                        )
+
+                                )
+
+                            [payee] => Array
+                                (
+                                    [merchant_id] => 8W5LK7B3HJX7Q
+                                    [email] => zanamm67@gmail.com
+                                )
+
+                            [description] => Concert Ticket Purchase
+                            [custom] => 8264dbccc4d994a69c5adfdb349e8a88
+                            [item_list] => Array
+                                (
+                                    [shipping_address] => Array
+                                        (
+                                            [recipient_name] => Mahsa Moradi
+                                            [line1] => De Roest dAlkemadelaan
+                                            [line2] => 7 b1
+                                            [city] => Antwerp
+                                            [state] => 
+                                            [postal_code] => 2600
+                                            [country_code] => BE
+                                        )
+
+                                )
+
+                            [related_resources] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [sale] => Array
+                                                (
+                                                    [id] => 3DY82768WD2700722
+                                                    [state] => completed
+                                                    [amount] => Array
+                                                        (
+                                                            [total] => 0.50
+                                                            [currency] => EUR
+                                                            [details] => Array
+                                                                (
+                                                                    [subtotal] => 0.50
+                                                                    [shipping] => 0.00
+                                                                    [insurance] => 0.00
+                                                                    [handling_fee] => 0.00
+                                                                    [shipping_discount] => 0.00
+                                                                    [discount] => 0.00
+                                                                )
+
+                                                        )
+
+                                                    [payment_mode] => INSTANT_TRANSFER
+                                                    [protection_eligibility] => ELIGIBLE
+                                                    [protection_eligibility_type] => UNAUTHORIZED_PAYMENT_ELIGIBLE
+                                                    [transaction_fee] => Array
+                                                        (
+                                                            [value] => 0.37
+                                                            [currency] => EUR
+                                                        )
+
+                                                    [parent_payment] => PAYID-M6FZWOA2GN56468KK123592F
+                                                    [create_time] => 2025-01-18T12:15:41Z
+                                                    [update_time] => 2025-01-18T12:15:41Z
+                                                    [links] => Array
+                                                        (
+                                                            [0] => Array
+                                                                (
+                                                                    [href] => https://api.paypal.com/v1/payments/sale/3DY82768WD2700722
+                                                                    [rel] => self
+                                                                    [method] => GET
+                                                                )
+
+                                                            [1] => Array
+                                                                (
+                                                                    [href] => https://api.paypal.com/v1/payments/sale/3DY82768WD2700722/refund
+                                                                    [rel] => refund
+                                                                    [method] => POST
+                                                                )
+
+                                                            [2] => Array
+                                                                (
+                                                                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZWOA2GN56468KK123592F
+                                                                    [rel] => parent_payment
+                                                                    [method] => GET
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [failed_transactions] => Array
+                (
+                )
+
+            [create_time] => 2025-01-18T12:14:48Z
+            [update_time] => 2025-01-18T12:15:41Z
+            [links] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZWOA2GN56468KK123592F
+                            [rel] => self
+                            [method] => GET
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [paymentId] => PAYID-M6FZ7SQ2BD440616L452300N
+    [payerId] => XC3MCWYNTTKX2
+    [paymentToken] => EC-7H2016548C018021J
+    [jsonResponse] => Array
+        (
+            [id] => PAYID-M6FZ7SQ2BD440616L452300N
+            [intent] => sale
+            [state] => approved
+            [cart] => 7H2016548C018021J
+            [payer] => Array
+                (
+                    [payment_method] => paypal
+                    [status] => VERIFIED
+                    [payer_info] => Array
+                        (
+                            [email] => mahsamoradi611.mm@gmail.com
+                            [first_name] => Mahsa
+                            [last_name] => Moradi
+                            [payer_id] => XC3MCWYNTTKX2
+                            [shipping_address] => Array
+                                (
+                                    [recipient_name] => Mahsa Moradi
+                                    [line1] => De Roest dAlkemadelaan
+                                    [line2] => 7 b1
+                                    [city] => Antwerp
+                                    [state] => 
+                                    [postal_code] => 2600
+                                    [country_code] => BE
+                                )
+
+                            [country_code] => BE
+                        )
+
+                )
+
+            [transactions] => Array
+                (
+                    [0] => Array
+                        (
+                            [amount] => Array
+                                (
+                                    [total] => 0.50
+                                    [currency] => EUR
+                                    [details] => Array
+                                        (
+                                            [subtotal] => 0.50
+                                            [shipping] => 0.00
+                                            [insurance] => 0.00
+                                            [handling_fee] => 0.00
+                                            [shipping_discount] => 0.00
+                                            [discount] => 0.00
+                                        )
+
+                                )
+
+                            [payee] => Array
+                                (
+                                    [merchant_id] => 8W5LK7B3HJX7Q
+                                    [email] => zanamm67@gmail.com
+                                )
+
+                            [description] => Concert Ticket Purchase
+                            [item_list] => Array
+                                (
+                                    [shipping_address] => Array
+                                        (
+                                            [recipient_name] => Mahsa Moradi
+                                            [line1] => De Roest dAlkemadelaan
+                                            [line2] => 7 b1
+                                            [city] => Antwerp
+                                            [state] => 
+                                            [postal_code] => 2600
+                                            [country_code] => BE
+                                        )
+
+                                )
+
+                            [related_resources] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [sale] => Array
+                                                (
+                                                    [id] => 85V91941YY3250031
+                                                    [state] => completed
+                                                    [amount] => Array
+                                                        (
+                                                            [total] => 0.50
+                                                            [currency] => EUR
+                                                            [details] => Array
+                                                                (
+                                                                    [subtotal] => 0.50
+                                                                    [shipping] => 0.00
+                                                                    [insurance] => 0.00
+                                                                    [handling_fee] => 0.00
+                                                                    [shipping_discount] => 0.00
+                                                                    [discount] => 0.00
+                                                                )
+
+                                                        )
+
+                                                    [payment_mode] => INSTANT_TRANSFER
+                                                    [protection_eligibility] => ELIGIBLE
+                                                    [protection_eligibility_type] => UNAUTHORIZED_PAYMENT_ELIGIBLE
+                                                    [transaction_fee] => Array
+                                                        (
+                                                            [value] => 0.37
+                                                            [currency] => EUR
+                                                        )
+
+                                                    [parent_payment] => PAYID-M6FZ7SQ2BD440616L452300N
+                                                    [create_time] => 2025-01-18T12:35:25Z
+                                                    [update_time] => 2025-01-18T12:35:25Z
+                                                    [links] => Array
+                                                        (
+                                                            [0] => Array
+                                                                (
+                                                                    [href] => https://api.paypal.com/v1/payments/sale/85V91941YY3250031
+                                                                    [rel] => self
+                                                                    [method] => GET
+                                                                )
+
+                                                            [1] => Array
+                                                                (
+                                                                    [href] => https://api.paypal.com/v1/payments/sale/85V91941YY3250031/refund
+                                                                    [rel] => refund
+                                                                    [method] => POST
+                                                                )
+
+                                                            [2] => Array
+                                                                (
+                                                                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZ7SQ2BD440616L452300N
+                                                                    [rel] => parent_payment
+                                                                    [method] => GET
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [failed_transactions] => Array
+                (
+                )
+
+            [create_time] => 2025-01-18T12:34:18Z
+            [update_time] => 2025-01-18T12:35:25Z
+            [links] => Array
+                (
+                    [0] => Array
+                        (
+                            [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZ7SQ2BD440616L452300N
+                            [rel] => self
+                            [method] => GET
+                        )
+
+                )
+
+        )
+
+)

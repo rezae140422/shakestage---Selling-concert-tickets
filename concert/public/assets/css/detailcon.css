@@ -1,0 +1,61 @@
+/* طراحی اختصاصی برای جزئیات کنسرت */
+.concert-details {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.concert-details h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #007bff;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.concert-details ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.concert-details li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    font-size: 1rem;
+    color: #555;
+}
+
+.concert-details li i {
+    font-size: 1.5rem;
+    color: #007bff;
+    margin-right: 10px;
+}
+
+.concert-details li span {
+    font-weight: bold;
+    color: #333;
+}
+
+.concert-details .badge {
+    font-size: 0.9rem;
+    padding: 5px 10px;
+    margin-right: 5px;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 15px;
+}
+
+.concert-details .badge i {
+    margin-right: 3px;
+}
+
+.map-container {
+    margin-top: 20px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+}

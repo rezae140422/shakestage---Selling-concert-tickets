@@ -1,0 +1,45 @@
+{
+  "name": "concert/new",
+  "description": "Concert Management Project for managing concerts and ticket sales",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Concert\\New\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Concert\\New\\Tests\\": "tests/"
+    }
+  },
+  "scripts": {
+    "post-install-cmd": [],
+    "post-update-cmd": []
+  },
+  "authors": [
+    {
+      "name": "Pedram Omidinejad",
+      "email": "pedramo78@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "endroid/qr-code": "^5.1",
+    "paypal/paypal-server-sdk": "^0.6.1",
+    "paypal/rest-api-sdk-php": "^1.6",
+    "phpmailer/phpmailer": "^6.9",
+    "setasign/fpdf": "^1.8",
+    "vlucas/phpdotenv": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  },
+  "minimum-stability": "stable",
+  "config": {
+    "optimize-autoloader": true,
+    "preferred-install": "dist",
+    "sort-packages": true
+  }
+}

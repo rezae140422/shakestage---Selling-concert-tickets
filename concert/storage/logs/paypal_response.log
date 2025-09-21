@@ -1,0 +1,456 @@
+Array
+(
+    [id] => PAYID-M6FZMWA9XB24832J1504813N
+    [intent] => sale
+    [state] => created
+    [payer] => Array
+        (
+            [payment_method] => paypal
+        )
+
+    [transactions] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [total] => 0.50
+                            [currency] => EUR
+                        )
+
+                    [description] => Concert Ticket Purchase
+                    [custom] => 2b0c01483f47e29afab6f62d30e614c8
+                    [related_resources] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [create_time] => 2025-01-18T11:54:00Z
+    [links] => Array
+        (
+            [0] => Array
+                (
+                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZMWA9XB24832J1504813N
+                    [rel] => self
+                    [method] => GET
+                )
+
+            [1] => Array
+                (
+                    [href] => https://www.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-8GU421492U8614018
+                    [rel] => approval_url
+                    [method] => REDIRECT
+                )
+
+            [2] => Array
+                (
+                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZMWA9XB24832J1504813N/execute
+                    [rel] => execute
+                    [method] => POST
+                )
+
+        )
+
+)
+Array
+(
+    [id] => PAYID-M6FZOTQ4AC21789RU327103R
+    [intent] => sale
+    [state] => created
+    [payer] => Array
+        (
+            [payment_method] => paypal
+        )
+
+    [transactions] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [total] => 0.50
+                            [currency] => EUR
+                        )
+
+                    [description] => Concert Ticket Purchase
+                    [custom] => 544583b3279eff62a9173d851a243758
+                    [related_resources] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [create_time] => 2025-01-18T11:58:06Z
+    [links] => Array
+        (
+            [0] => Array
+                (
+                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZOTQ4AC21789RU327103R
+                    [rel] => self
+                    [method] => GET
+                )
+
+            [1] => Array
+                (
+                    [href] => https://www.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-3FD71541HP9315234
+                    [rel] => approval_url
+                    [method] => REDIRECT
+                )
+
+            [2] => Array
+                (
+                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZOTQ4AC21789RU327103R/execute
+                    [rel] => execute
+                    [method] => POST
+                )
+
+        )
+
+)
+Array
+(
+    [id] => PAYID-M6FZOXI0WV95016XR174900K
+    [intent] => sale
+    [state] => created
+    [payer] => Array
+        (
+            [payment_method] => paypal
+        )
+
+    [transactions] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [total] => 0.50
+                            [currency] => EUR
+                        )
+
+                    [description] => Concert Ticket Purchase
+                    [custom] => 426e5c72909608281cffb01652d12046
+                    [related_resources] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [create_time] => 2025-01-18T11:58:21Z
+    [links] => Array
+        (
+            [0] => Array
+                (
+                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZOXI0WV95016XR174900K
+                    [rel] => self
+                    [method] => GET
+                )
+
+            [1] => Array
+                (
+                    [href] => https://www.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-9D518471JW763423U
+                    [rel] => approval_url
+                    [method] => REDIRECT
+                )
+
+            [2] => Array
+                (
+                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZOXI0WV95016XR174900K/execute
+                    [rel] => execute
+                    [method] => POST
+                )
+
+        )
+
+)
+Array
+(
+    [id] => PAYID-M6FZWOA2GN56468KK123592F
+    [intent] => sale
+    [state] => created
+    [payer] => Array
+        (
+            [payment_method] => paypal
+        )
+
+    [transactions] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [total] => 0.50
+                            [currency] => EUR
+                        )
+
+                    [description] => Concert Ticket Purchase
+                    [custom] => 8264dbccc4d994a69c5adfdb349e8a88
+                    [related_resources] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [create_time] => 2025-01-18T12:14:48Z
+    [links] => Array
+        (
+            [0] => Array
+                (
+                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZWOA2GN56468KK123592F
+                    [rel] => self
+                    [method] => GET
+                )
+
+            [1] => Array
+                (
+                    [href] => https://www.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-4H403749WV2471241
+                    [rel] => approval_url
+                    [method] => REDIRECT
+                )
+
+            [2] => Array
+                (
+                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZWOA2GN56468KK123592F/execute
+                    [rel] => execute
+                    [method] => POST
+                )
+
+        )
+
+)
+Array
+(
+    [id] => PAYID-M6FZZNA0KS45642G14621824
+    [intent] => sale
+    [state] => created
+    [payer] => Array
+        (
+            [payment_method] => paypal
+        )
+
+    [transactions] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [total] => 0.50
+                            [currency] => EUR
+                        )
+
+                    [description] => Concert Ticket Purchase
+                    [custom] => e41dcb5befff9adb64a0fe86e8e322d9
+                    [related_resources] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [create_time] => 2025-01-18T12:21:08Z
+    [links] => Array
+        (
+            [0] => Array
+                (
+                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZZNA0KS45642G14621824
+                    [rel] => self
+                    [method] => GET
+                )
+
+            [1] => Array
+                (
+                    [href] => https://www.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-96W30248AA550860C
+                    [rel] => approval_url
+                    [method] => REDIRECT
+                )
+
+            [2] => Array
+                (
+                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZZNA0KS45642G14621824/execute
+                    [rel] => execute
+                    [method] => POST
+                )
+
+        )
+
+)
+Array
+(
+    [id] => PAYID-M6FZZUA2LV28051T1724724V
+    [intent] => sale
+    [state] => created
+    [payer] => Array
+        (
+            [payment_method] => paypal
+        )
+
+    [transactions] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [total] => 0.50
+                            [currency] => EUR
+                        )
+
+                    [description] => Concert Ticket Purchase
+                    [custom] => 47fb0155891bc14c91896831a1fa6d82
+                    [related_resources] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [create_time] => 2025-01-18T12:21:36Z
+    [links] => Array
+        (
+            [0] => Array
+                (
+                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZZUA2LV28051T1724724V
+                    [rel] => self
+                    [method] => GET
+                )
+
+            [1] => Array
+                (
+                    [href] => https://www.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-01071406GR338760W
+                    [rel] => approval_url
+                    [method] => REDIRECT
+                )
+
+            [2] => Array
+                (
+                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZZUA2LV28051T1724724V/execute
+                    [rel] => execute
+                    [method] => POST
+                )
+
+        )
+
+)
+Array
+(
+    [id] => PAYID-M6FZ3CY66044086NU914682L
+    [intent] => sale
+    [state] => created
+    [payer] => Array
+        (
+            [payment_method] => paypal
+        )
+
+    [transactions] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [total] => 1.00
+                            [currency] => EUR
+                        )
+
+                    [description] => Concert Ticket Purchase
+                    [custom] => 235dd837ec09521ca7cd66f4ca468204
+                    [related_resources] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [create_time] => 2025-01-18T12:24:43Z
+    [links] => Array
+        (
+            [0] => Array
+                (
+                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZ3CY66044086NU914682L
+                    [rel] => self
+                    [method] => GET
+                )
+
+            [1] => Array
+                (
+                    [href] => https://www.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-2GD74958PA9338424
+                    [rel] => approval_url
+                    [method] => REDIRECT
+                )
+
+            [2] => Array
+                (
+                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZ3CY66044086NU914682L/execute
+                    [rel] => execute
+                    [method] => POST
+                )
+
+        )
+
+)
+Array
+(
+    [id] => PAYID-M6FZ5EY2694634457275430T
+    [intent] => sale
+    [state] => created
+    [payer] => Array
+        (
+            [payment_method] => paypal
+        )
+
+    [transactions] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [total] => 0.50
+                            [currency] => EUR
+                        )
+
+                    [description] => Concert Ticket Purchase
+                    [custom] => 972632ed338724304d6c49d7da5c221c
+                    [related_resources] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [create_time] => 2025-01-18T12:29:07Z
+    [links] => Array
+        (
+            [0] => Array
+                (
+                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZ5EY2694634457275430T
+                    [rel] => self
+                    [method] => GET
+                )
+
+            [1] => Array
+                (
+                    [href] => https://www.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-2VY78999SB295373A
+                    [rel] => approval_url
+                    [method] => REDIRECT
+                )
+
+            [2] => Array
+                (
+                    [href] => https://api.paypal.com/v1/payments/payment/PAYID-M6FZ5EY2694634457275430T/execute
+                    [rel] => execute
+                    [method] => POST
+                )
+
+        )
+
+)

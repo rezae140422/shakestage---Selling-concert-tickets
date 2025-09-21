@@ -1,0 +1,5 @@
+[22-Jan-2025 13:31:45 UTC] PHP Warning:  require_once(/home7/shakesta/public_html/concert/public/tickets/../vendor/setasign/fpdf/fpdf.php): Failed to open stream: No such file or directory in /home7/shakesta/public_html/concert/public/tickets/index.php on line 62
+[22-Jan-2025 13:31:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home7/shakesta/public_html/concert/public/tickets/../vendor/setasign/fpdf/fpdf.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home7/shakesta/public_html/concert/public/tickets/index.php:62
+Stack trace:
+#0 {main}
+  thrown in /home7/shakesta/public_html/concert/public/tickets/index.php on line 62

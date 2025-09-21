@@ -1,0 +1,4 @@
+[17-Jan-2025 11:53:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home7/shakesta/public_html/concert/src/views/partials/header.php on line 44
+[17-Jan-2025 11:53:09 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home7/shakesta/public_html/concert/src/views/partials/header.php on line 44
+[17-Jan-2025 11:53:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home7/shakesta/public_html/concert/src/views/partials/header.php on line 44
+[17-Jan-2025 11:53:14 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home7/shakesta/public_html/concert/src/views/partials/header.php on line 44
